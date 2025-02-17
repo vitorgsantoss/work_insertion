@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/work_insertion.iml" filepath="$PROJECT_DIR$/work_insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/work_insertion_android.iml" filepath="$PROJECT_DIR$/android/work_insertion_android.iml" />
+    </modules>
+  </component>
+</project>
