@@ -4,4 +4,5 @@
 # Ignorar a pasta "video" dentro de "assets"
 assets/video/
 
+# Ignorar o arquivo app.dill para ser criado apenas no build da aplicação
 .dart_tool/flutter_build/e0d03825d2c3132cb36032e39790fe3f/app.dill

@@ -41,7 +41,9 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
      ```sh
      flutter pub get
      ```
-3. Inicie a aplicação:
+3. Crie e configure o arquivo .env com base em .env_example.
+
+4. Inicie a aplicação:
    - Backend:
      ```sh
      python server_interpreter.py
